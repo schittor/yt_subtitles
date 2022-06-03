@@ -1,0 +1,756 @@
+﻿Scene0 = T0 0
+
+Scene1 = T1 0.27
+Clip T T1-P1-SU1: BG: Generic 2.22
+0.27 Namaskara,  My name is Geetha Rao. Welcome to the third presentation of Vayuvya 
+Samskrithika Kendra (VSK) - ‘Thyagasheela Shri Ramachandra’  
+0.41 If you are interested please watch our other Kathanakas Sitayana and Bhishama Durantha in 
+VSK Portland YouTube channel. 
+0.51 Our presentation  has a distinctive format of a combination of harikatha and play. 
+0.58 As a narrator, I will narrate  the background of the story,outline the framework in the form of  
+harikatha and the Artists will then enact the episode in the style of a play. 
+1.14 I would now like to take you to the story “Kathanaka” of   ThyagaSheela Shri Ramachandra.
+1.20 Finally after 14 years of exile Shri Ramachandra returns to Ayodhya, to be coronated as king  
+with grandeur. 
+1.28 Vaidehi, the picture of  patience and restraint, finally became the queen of Ayodhya, 14 years  
+after she took Lord Rama's hand as her husband. 
+1.39 Seethe, who had suffered 14 years of solitary confinement without having committed any crime 
+except for making the mistake of choosing Lord Rama in a Swayamvara, is now at peace. . 
+1.53 After all the festivities and celebrations, Seethe became pregnant and now at full term,  Seethe 
+expresses her desire to go once to Valmiki sage's ashram and to receive blessings from the revered 
+sages and their wives. 
+2.10 Overloaded with official duties as the king Rama had given her the assurance that one of these 
+days he will take her out.
+2.20 Thus their family life and their new life as king and queen of Ayodhya was proceeding smoothly 
+without any incidents
+2.31 But, but, but …  this short lived idyllic life of Seethe was about to be torn into pieces … Shri 
+Rama was sitting in his courtroom deep in thought …. 
+
+ Scene2 = T2 2.47
+Clip T T2-P1-RA: BG Palace Durbar Hall   2.56
+2.47 I hear fate’s wicked cackle all around me now!   I am, Shri Ramachandra, the ultimate Sovereign, one 
+who is attributed to have the 16 virtues as exalted by Sage Narada.
+3.03 One who is conscious of the desires of his subjects, one who protects them as his family, and one who 
+treats his family and his subjects with equal affection, not exhibiting an iota of difference in his treatment of 
+them. 
+3.22 Why am I being accused of a crime? Why is this blemish stuck on my spotless personality?  Why is my 
+very character, my behavior being questioned? ... 
+3.35  I am the ideal of all good things in this world. Why am I being accused? Why is my character being 
+questioned? 
+3.53 I learnt from my courtiers that people were talking very lightly and scornfully about me: "Our king has 
+married  a woman who was abandoned at birth, 
+4.00 has now reunited with her after she has adorned the lap of the demon King Ravana  and one who even 
+the holy fire detested to embrace,  
+4.16 What kind of idealism can such a king who is infatuated with his wife, provide for us and our future 
+generations.  Whatever Rama did, if my wife were to do it, I would not have admitted her into my 
+home."  and so on … 
+4.33 What happened? Oh God? Why?	
+4.43 Society tolerates common folks, even if they make huge mistakes without the grasp of the seriousness 
+of their acts. 
+4.50 The babblings of these uneducated people who do not understand the background or the context of 
+their speech is then fully exploited by the evil minded for their evil schemes.  
+5.06 Rama, you are alone, Rama the gracious, people like you, the exalted  leaders, and those who set the 
+ideal for the world are always alone at the top.
+5.20 Even if you make the slightest mistake, it will return like a ghost to haunt you and will swallow you. 
+Rama - it will destroy you. 
+5.31 The only way is to split open the stomach of the python that has swallowed you with your blemish and 
+throw out the sticky blemish that is stuck to you! 
+
+Scene2a = T3 5.42
+Clip T T3-P1-MU2:  0.39
+5.42 Oh! Shri Ramachandra, the incarnation of Shriman Narayana, your avatar on this earth is coming 
+to an end.
+5.52  The epitome of justice, Shri Rama, your time is coming to an end on this earth, unfetter yourself 
+from the bondage of this earth, return to your origin.
+6.06 Oh! Rama,  the great selfless…. reject, abandon the love for this earth, detach yourself from the 
+love... to the daughter of this earth … Rama unfetter … 
+
+Scene2b = T4+T5+T6+T7+T8+T9 6.11
+Clip T T4-P1-LK:  0.26 
+6.11 Oh! Brother, did you ask for me? It is painful to see you, the Lord of Ayodhya, sitting alone, 
+worried in the middle of the night. 
+6.31 Oh! Brother, what is the reason for your emotional distress?
+
+Clip T T5-P1-RA:  0.30
+6.37 Lakshmana.... What can I say about my worries? I am caught in a vortex and drowning in its 
+depth of despair!. 
+6.53 Light may escape from a black hole, but from the misery I have gotten into, there is no chance 
+of even the slightest ray of hope escaping out ...
+
+Clip T T6-P1-LK: 0.10
+7.07 Oh! Brother, you are the one, who has control over the five senses,  , you are the one who has 
+control over the temptations of the mind? Why are you caught in this dilemma?
+
+Clip T T7-P1-RA: 1.47
+7.17 It has been reported that a washerman has been chatting all over town, "The woman who spent time in 
+the midst of demons is now our queen"... 
+7.27 If the king has any kind of infatuation with his family, discrimination between the family and his subjects 
+will surface without him being aware of it. It is exceedingly difficult to be unblemished, 
+7.47 I am an emperor first, then a husband.  As a king, I owe my undivided attention to my subjects first.
+They are my core and represent the pulse of the nation... 
+8.04 The king should set the ideals for his people and not be a showman. So, I have now come to a firm 
+resolution ... 
+8.15 There is only one way out - Seethe's renunciation!! I must abandon Seethe!   She of course is 
+blameless and pregnant ... There is no other way out!  There is no other way. 
+8.38 But as her husband I do not have the strength of mind to tell her and incidentally as a king, I need not 
+directly address my subjects of which she is one. 
+8.48 Oh! Lakshmana my brother, as my soul representative as my most faithful ally can I expect help from 
+you, Lakshmana to carry this out?   Can I?
+
+Clip T T8-P1-LK: 0.13
+9.04 Brother, can you please listen to my request once. A dog’s barking does not ruin the heavens, let us 
+discuss it once brother, let us think this through.
+
+Clip T T9-P1-RA: 0.40
+9.17 Oh Lakshmana, I order this as king of Ayodhya - tomorrow at the break of the dawn, escort my 
+wife Seethe and leave her at the edge of Valmiki sage’s ashram on the other side of the forest. 
+9.34 That is, get her out of Ayodhya's borders. Leave her on the south bank of the Ganga. She 
+should not be able to return.   
+9.45 This is a King’s order, this is my strict command ... There is no further discussion about it. .
+
+Scene3 = T10 9.57
+Clip T T10-P1-SU1: BG Generic 2.07
+9.57 Those who thrive on exploiting women, those who seek purity in a woman's character, drive their minds 
+without any restraint, and they alter the details according to their prejudices. 
+10.14 When Ravana kidnapped Seethe, he lifted her by her feet and put her on his Pushpaka 
+Vimana(plane). 
+10.22 When Ravana saw Seethe’s resemblance in Mandodari, he picked Seethe and seated her on his right 
+lap... Which lap? The Right one.
+10.32 Traditionally the left lap is reserved for the wife, the right lap for children... Yet those who complain 
+conveniently forget this.
+10.44 The Vedic saying “Don’t seek the origin of a woman or a sage” is conveniently exploited in situations 
+like this. 
+10.55 They interpret the saying to imply a woman’s origin is suspect, and exploit that. 
+11.01 Why should this not be applicable to a man? Why should the events of life that were beyond their 
+control should have consequences for their entire life?
+11.15 The main point here is Rama's attitude which defies all meaning. 
+11.19 Even in the original Ramayana, once Rama hears about accusations on Seethe he decides to take 
+action overnight and does not even care to see Seethe even once before he abandons her. 
+11.33 The overpowering kindness of the merciful Rama is limitless and unbound!! 
+11.37 Comparatively in modern times, we are more kindhearted, open minded, we give much thought before 
+passing judgement and deliberations on anyone let alone one’s wife!!
+11.46 The dark night has come to an end and the sun arose in the sky.  Lakshmana leaves for Valmiki’s 
+ashram in a chariot with his sister-in-law Seetha. 
+
+Scene4 = T11+T12+T13+T14+T15+T16 12.01
+Clip T T11-P1-SE1: BG Forest with a river at the background. 1.39 
+12.01 Oh, Lakshmana, this forest is so beautiful! The wind is filled with a sweet fragrance as it blows when 
+the chariot moves.
+12.15 What a sad time it was when we entered a similar forest 15 years ago. We were exiled for 14 years 
+then.
+12.27 There was unbearable sadness, dissatisfaction, jealousy, and hatred in the family. Our future was 
+dark. 
+12.37 The memory of wearing an ascetic dress, combing hair in the wax of bitter oil, and departing from 
+Ayodhya on a rocky path is still fresh in my mind. 
+12.48 I never dreamt that happy days would come. Now I am fully pregnant. What else do I need?  I am very 
+happy. 
+13.02 How nice it would have been if my god, life-partner, and your brother, Lord Rama, were to be with us 
+now.
+13.10 After returning to Ayodhya, he has been immersed in ruling the kingdom, and has no time for a stroll 
+in the forest.
+13.21 What is it, what is it Lakshmana? A weird bird seems to be screaming, my left eyelid is quivering, my 
+shoulders are shaking... Why Lakshmana? 
+13.34 I am haunted by signs of a bad omen. Lakshmana, please stop the chariot.
+
+Clip T T12-P1-LK:  0.37
+13.40 Sister-in-law, here is the River Ganga.  I will stop the chariot. Let us get down, rest for a while, 
+and slowly cross the river.
+13.52 Might be the strain of the journey that triggered the signs of the bad omen, don’t worry it will 
+go away once you rest.
+14.0 There's nothing to panic, Sister-in-law don't be afraid everything is okay. Valmiki's abode is not 
+far from that shore of the Ganga. Let's walk slowly, Sister in Law, slow down! 
+ 
+Clip T T13-P1-SE1: 0.32
+14.18 Oh, finally we crossed the Ganga. I thought the ashram was near the Ganga. 
+14.27 Lakshmana I cannot walk too far. Hmm, Lakshmana, the forest is getting denser. What is this 
+Lakshmana?
+14.40 It's getting dark, I'm tired and scared. let's go back ...? Why don’t we see the ashram yet, Laxshman?
+
+Clip T T14-P1-LK:   2.0
+14.50 Oh! God, Oh! Mother, stop, stop... I don't know how to say it. I am tired of following my brother’s 
+orders. 
+15.05 The hands that have served you in the past with so much love and care have driven this chariot today. 
+Oh, shouldn't these hands of mine fall off? 
+15.18 I am exhausted. The time I had prayed would never come has arrived, that ominous time has come. 
+no escaping from it now.  
+15.35 Now I need to tell you a bitter truth, I cannot utter these words. Let my tongue melt away, let this earth 
+swallow me.
+15.56 Oh, mother, what can I do?  This is a royal decree - it must be followed and obeyed ....
+16.03 Listen, sister-in-law, listen to this horrible fact - Rama is no longer your husband. I can't say this as 
+your brother-in-law.
+16.25 Gentleman, people, forest dwellers, listen, listen, listen. King of Ayodhya, Shri Ramachandra hereby 
+renunciates his wife, queen Seetha Devi of Ayodhya....
+
+Clip T T15-P1-SE1: 0.49 
+16.50 What did you say Lakshmana? Renunciation, renunciation ... My husband Shri Ram has 
+abandoned me?? .... 
+17.02 Why Lakshmana? What kind of crime have I committed? I have not stepped out of the harem; 
+I have fulfilled all my duties as a wife. I have the result of our union in my womb. 
+17.15 I don't understand. Is it not enough for me to have suffered these 14 years? Is it not enough to 
+keep Lord Ram's name and fame untainted? 
+17.27 Is it not enough to declare to the world that I am immaculate when tested by fire? 
+17.33 Why does my lover want to abandon me? Tell me Lakshmana, tell! Me? 
+
+Clip T T16-P1-LK: 1.58 
+17.39 Shri Rama has ordered me to leave you in this dense forest, so that you will not be able to 
+return to Ayodhya. I'm sorry, I'm just the messenger, I do not endorse this, but my hands are tied. 
+17.56 The people of Ayodhya doubted your character. As the world knows, the viceless Rama is 
+immaculate, ruthless, impersonal, not arrogant, not pompous, .... 
+18.16 If all those virtues must stay true and if Rama is to be an ideal man for the world, you cannot 
+be his queen. That is not possible. 
+18.30 If you want to serve Rama's honor, ego, charisma and prestige, you must make this sacrifice, 
+he must renounce you. 
+18.47 The religion requires a devoted wife like you to partake in this sacrifice, society expects it from 
+you, and society demands that sacrifice from every wife... 
+19.0 This male-dominated society has got you  in a corner, my dear sister-in-law, they got you and 
+sacrificed you on the altar to save Rama’s ego, Rama’s prestige...
+19.10 Oh my, sister-in-law has passed out. What can I do? Nothing. I have obeyed my brother's 
+command and royal orders, so I will return now. 
+19.27 May this mother earth protect you. Forgive me, mother. Your brother-in-law is not even worth 
+the dust on your feet...
+
+Scene5 = T17 19.37
+Clip T T17-P1-SU1:  BG Generic 1.10
+19.37 Just as a banana tree succumbs and topples over to earth when there is a typhoon, Seethe fell 
+on mother earth as the harsh commands from Lakshmana fell on her ears.
+19.52 So swooned in sorrow, Lakshmana sprinkled water on Seethe to refresh her. He fanned her and 
+wept in despair thinking did I really get any benefit by serving Rama?
+20.07 One who was worshipped as the ideal wife, Janaka’s daughter, the purest of pure, Seethe, falls 
+on the ground with uncontrollable sorrow and unbearable despair.  No, no she falls onto the mother 
+earth, “her mother ’s lap”. 
+20.25 People in command, and those in power get their dirty work done by goons. 
+20.37 Lakshmana weeps in despair at the situation and wonders about this deed and returns to 
+Ayodhya 
+
+Scene5a = T18-BG -1 20.47
+Clip T T18-P1-MU1: BG Music 0.35
+20.47 You are my temple, you are my object of worship, you are my God
+Oh! My husband just in 14 weeks, 14 weeks you sent me back to the forest…
+Oh! The saviour of orphans true to your name did you orphan me?
+Oh! Embodiment of truth, I am perplexed, is It is real or a dream I know not, 
+You made me, the orphaned daughter of Sunayana, the sacrificial goat of your ultimate sacrifice 
+
+Scene6 = T19 21.02
+Clip T T19-P1-SE1:  BG Other side of the river 1.53
+21.02 What is this, darkness everywhere? What happened? Where am I? Am I in my palace? 
+21.13 My revered husband, Lord Rama, should be here.... Where is my idol, my god, the resident of 
+all temples, where is he?
+21.26 I remember now. Lakshmana left me here in the middle of the forest. Why? Why did he leave me 
+here? 
+21.40 My husband, who is devoid of all vices and is the epitome of virtues... 
+21.48 Hmm, I am sorry, husband? Who is my husband? I have been abandoned. I do not have a husband.   
+The king of Ayodhya, the emperor, Shri Ramachandra abandoned his queen!! The just Rama has 
+abandoned the unworthy queen of Ayodhya, the sinner who tarnished his reputation!!
+22.09 Ha Ha Ha Now Everyone In Ayodhya can live in harmony. The corrupted criminal who roiled amidst 
+the demons is no longer their queen. The slayer of evil, the protector of holy, Shri Rama protected the purity 
+of the throne.
+22.28 Are men who sacrifice their wife to protect their own reputation really men? I don’t understand, I don’t. 
+22.35 It's no use anymore, I'm my own friend, and I'm the one who is responsible for the unborn in 
+my womb. 
+22.43 The sun is rising, it looks like there is a sage’s ashrama in the distance, is it Valmiki sage’s 
+ashram? Let me go and see.
+
+SceneX3 = T20-BG  22.55 
+Clip NT T20-P1-MU1:  BG - Music 0.15
+
+Scene6a = T21 23.05
+Clip T T21-P1-SE1:  0.16
+23.05 The king? Yes, the husband is in the palace and the wife is in the forest?? Why did you... 
+Janaki became the bride of such a landlord? Why?
+
+SceneX4 = T22 -1
+Clip NT T22-P1-MU1:  BG - Music 
+
+Scene6b = T23 23.21
+Clip T T23-P1-SE1: 0.30
+23.21 Whose bride am I? Purandara Vittala’s? or Shri Ramachandra the lord of the universe, or the 
+washerman  on earth ? 
+23.35 It would have been better to be the bride of a washerman!! It would have been peaceful. 
+23.39 Ha ha, the ashram is here. I am blessed that the Valmiki sage is coming to meet me. 
+23.48 Oh Sage, salutations. I am surrendering to you as a helpless destitute, rejected by her 
+husband. Please protect me.
+
+Scene61 = T24+T25+T26 23.51
+Clip T T24-P1-VA: 0.24
+23.51 Come in, daughter, come in, you are tired, come in. 
+24.02 I knew that this story would end sooner or later like this. I have authored the story of Rama 
+and hence am not surprised!  Come in and rest. 
+
+Clip T T25-P1-SE1: 0.45 
+24.16 Revered Sage, looking at you and accepting your hearty welcome, I am blessed. I am now 
+rejected by my husband, and I'm pregnant. 
+24.28 Can I find shelter in your ashram? Would the elderly pious women give me support after I 
+have the bad reputation of having disgraced a revered man like Lord Rama ? 
+24.46 Would I be a burden on this ashram? I do not need this queen’s gold and diamond     
+ornaments. I am offering all of this to you . I don't know what else to do ... 
+
+Clip T T26-P1-VA: 0.23
+25.01 Do not worry my dear daughter.  The town, the forest, this ashram and the forest beyond 
+are all part of the kingdom and are under his protection.
+25.11 The palace as well as the ashram belongs to Rama. From now on, accept this as your 
+home.
+
+Scene7 = T27 25.23 
+Clip T T27-L1-SU2: BG Generic 0.40
+25.23 Salutations! My name Is Swetha Bhendigeri. I am your next narrator. The first chapter of 
+Seethe's renunciation has thus ended. 
+25.31 Seethe took refuge in Sage Valmiki’s ashram and within a few days gave birth to the most 
+adorable twin babies. 
+25.40 Sage Valmiki named the babies Kusha and Lava. The babies' laughter, their first crawl 
+and their first words filled the ashram with a renewed spirit and rejuvenation.  
+25.56 One day, while the children were playing, Seethe was seated, lost in her thoughts.
+
+Scene8 = T28 26.03
+Clip T T28-L1-SE2: BG Sitting outside a hut under the shade of a tree 2.45
+26.03 (Speaking to self) Rejected by my parents from birth, I lived a happy life in the company of my 
+guardians for the first 16 years. 
+26.13 My solitude, which started when I married  Dasaratha's son Shri Ramachandra, the epitome of 
+valor, conqueror of all desires, and the merciful, has not been over to date. 
+26.25 Why is this the solitude at present? For what crime? Yes I accept that I live amidst demons 
+and bad women .. 
+26.36 Ha, Ha what did the washerman say about my “luxurious life”? Hearing my story, he was 
+disgusted, despised, and, as if he had all the evidence, he blabbered as if it is the duty of an honest 
+citizen. 
+26.55 When the Washerman barked, the lord of our heavens, Shri Ramachandra, 
+27.05 But..., but... now, in this solitary life, fortunately for peace paid attention and shattered my 
+heavenly dreams with his decision, 
+But there are these sweet, adorable kids. Heavenly life has been restored by them.  
+27.22 They are now growing up. To expand their intellect they need to be educated and trained as 
+well in warfare . 
+27.32 But this single parentage is not good for the all-round growth of children. Thus, Valmiki sage 
+has taken up their father's role and taken charge of worldly studies for these two children. 
+27.44 Now comes the question - Who will teach them warfare and the art of weaponry in  a Sage’s 
+ashram? I assured the sage that I, daughter of Queen Sunayana will! 
+28.00 I am not only a master of all weapons of war but have experience fighting on the battlefield, 
+lending shoulder to shoulder with men.
+28.17 Anyway, children are getting appropriate well rounded education. But above all, the question 
+that now haunts me is their future. 
+28.25 Their stay here is  temporary, sooner or later they must move away from this ashram. They 
+will figure out the mystery of their birth and their destiny. . 
+28.38 Oh, looks like there seems to be a spat brewing between them and they are running to me to 
+help mediate . Ha ha ha ....
+
+Scene81 = T29+T30+T31+T32+T33+T34 28.48
+Clip T T29-L1-LV: 0.07
+28.48 Amma, Amma, Guruji is telling us the story of some God.
+
+Clip T T30-L1-KU:  0.11
+28.55 Lava one minute, I'll tell you... Amma, there is a king of Ayodhya, Shri Ramachandra. Guruji was 
+telling his history...
+
+Clip T T31-L1-SE2: 0.05
+29.06 (speaking to self) Hmmm, I need to be careful from now on. That's very good, what did he say?
+
+Clip T T32-L1-LV: 0.07
+29.11 It was, Lord Rama had married a queen, and broken a mace...
+
+Clip T T33-L1-KU: 0.07
+29.18 No Lava, he broke the bow and got married to Seethe, daughter of   king Janaka... 
+
+Clip T T34-L1-LV: 0.03
+29.25 Mother, do you know about that story?
+
+Scene82 = T35+T36+T37+T38+T39+T40+T41+T42 29.28
+Clip T T35-L1-SE2: 0.54
+29.28 Do I know? Yes, Yes, I know.
+29.32 (to herself) I was at that unfortunate juncture there ... Poor children... What do they know about 
+my sad story?
+29.4 Come on, sit. Now that you are a little older, you also have a better understanding and grasp of 
+knowledge. You both have always wanted to know who your father is...
+29.59 Let us talk about it a little. Cuckoo is the most beautiful bird. Their sound ‘kuhoo kuhoo’ is always 
+heard in our ashram. It is a pleasure to see it leaping from branch to branch. You have fed it many 
+times. Right? 
+
+Clip T T36-L1-LV: 0.06
+30.22 Yes, we love the cuckoo bird
+
+Clip T T37-L1-SE2: 0.24
+30.28 The crow is another bird. If we see a black crow, we drive it away. 
+30.35 It is a disgusting bird - always eats dead animals, also eats leftovers and rotten things that we do 
+not want. Also, their sound is a bit cacophonic. Right?
+
+Clip T T38-L1-KU: 0.06
+30.52 Yes, I do not like it, it's a dirty bird.
+
+Clip T T39-L1-SE2: 0.26
+30.58 In our world, there are beautiful bodies, sweet-voiced, exceptionally smooth, showy people like a 
+cuckoo and there are those who are clumsy, shrill, and filthy, like crows. If your father is a cuckoo, I am 
+a crow.
+
+Clip T T40-L1-KU: 0.12
+31.24 What are you saying, Mom? Our father is a cuckoo, you are a crow? Hmm?? Does not make 
+sense. You're not a crow, you're a cuckoo in every way!!
+
+Clip T T41-L1-SE2: 0.22
+31.36 Where does the cuckoo lay eggs? Who incubates the egg? Who brought food to the cuckoo's 
+chicks? Is it lord Keshava? or is it our loud, black dirt-eating crow? 
+
+Clip T T42-L1-LV: 0.08
+31.58 You are a crow; my father is a cuckoo... I don't understand, where is my father?
+
+Scene83 = T43+T44 32.06
+Clip T T43-L1-SE2: 1.00
+32.06 Children, what can I say, your father is a great man, courageous and valiant, a king of a big 
+kingdom. I am the daughter of a demon, rejected at birth, and lived among demons who eat filth?
+32.30 What happened next? I fell prey to the obscene words of a washerman. I am worse than a crow.
+32.38 Children, you cannot understand this world, where everything that appears pristine and pure 
+externally is not the same at its core.
+32.53 The exhibition of moral display, philosophical attitude does not translate to sane actions in one's   
+personal life.... The result is me and you, my children.   What can I say my darlings?  
+
+Clip T T44-L1-KU:  0.14   
+33.10 Mother, you never did tell us who our father is.
+
+Scene84 = T45+T46+T47 33.24
+Clip T T45-L1-VA: 0.33
+33.24 That was not a mace it was a bow, no it was a mace, no bow, no mace ...
+33.30 Come on, children, while I was telling you  a story, you both ran away . I will tell you in detail  the 
+history of Lord Rama, the king of Ayodhya and the king of all of us
+33.51 Rama breaks the bow and wins Seethe.......
+ 
+Clip T T46-L1-KU: 0.07
+33.57 Did he win Seethe, Guruji?  Is this like winning a prize in a game, in a competition? ...
+ 
+Clip T T47-L1-LV: 0.03
+34.04 Keep quiet Kusha ... Let Guruji tell the story ...
+
+Scene85 = T48 34.07
+Clip T T48-L1-SE2: 0.09
+34.07 (to herself) I am as blessed as the wife, who hangs on to the tail of a winning bull.... Ha ha ha ...
+ 
+Scene9 = T49 34.16
+Clip T T49-L1-SU2: BG – Generic 0.15
+34.16 While the kids were growing up in the ashram of Sage Valmiki receiving a well-rounded 
+education, back in Ayodhya Shri Rama was performing Ashvamedha ritual to expand his kingdom.
+ 
+Scene10 = T50+T51+T52+T53+T54+T55 34.31
+Clip T T50-L1-RA:  BG Durbar Hall 2.37
+34.31 (To self) As you climb a peak, the panorama expands and you see more of the valley below .  .  but 
+the people down in the valley get an incredibly detailed view of each of the movements of the people above.
+34.41 Consequently, sharp criticism can be expected for the least of your misstep. So Rama 
+beware, your clean, spotless character can get tarnished. 
+35.06 Valmiki sage completed the Ramayana with  my great coronation and sang victory to Dharma 
+and victory to Rama.
+35.17 But, but... those who came from the south from Ravana’s kingdom created a new chapter of 
+‘Uttarakanda Ramayana’.
+35.27 My children .... No, No, I have long lost the right to say ‘my children’, oh, what an unfortunate 
+person I am ....
+35.42 My wife and sons are not with me!  I have abandoned them for the sake of my country, I am 
+the epitome of sacrifice, Rama the great ...
+35.53 Ha ha ha what an irony ... All I can say is “Two of the Valmiki ashram’s residents, Seethe's 
+children, are the heirs of this throne of Ayodhya, and it is  their birthright..” I have to get them here 
+36.18 Ah, Ah, I have an idea. We can kill two birds with one stone.
+36.32 The saying goes “Once a goat has grazed the land, it becomes barren, with no fodder left” 
+Similarly where Rama’s “Ashwa” the horse grazes, all of that belongs to me, there is no second 
+thought on that.
+36.40 If anyone dares to tie the horse down, and questions its sovereignty, then it can only be 
+settled by war, whoever wins shall be the rulers of Ayodhya. The sacred white horse that will roam 
+the country in victory, is the solution for my dilemma. 
+37.01 Hmm.... Who's there! Summon Lakshmana to come immediately! 
+ 
+Clip T T51-L1-LK: 0.12
+37.09  Oh Brother salutations, you told me to come quickly? What is your order? Are you doing well?
+ 
+Clip T T52-L1-RA: 0.18
+37.20 Please come in, Lakshmana.  Sit down and sit down...
+37.26 How is the “Ashvamedha yaga” ritual going? Did anyone protest? Did everyone accept the 
+authority of Ayodhya?  Younger brother, tell me.  Did anyone object to our sovereignty?
+ 
+Clip T T53-L1-LK: 0.28
+37.38 No, brother. Our ceremonial horse has been freely grazing all over the northern part of the 
+Ganga... 
+37.51 Wherever it has grazed, our authority was happily accepted.
+37.54 Expansion of the kingdom has been successful. Shall we withdraw the horse?
+
+Clip T T54-L1-RA: 0.32
+38.06 Ha, Ha, No, No! , let it graze on the south bank of the Ganga also. It is a fertile land that we 
+can claim! All the more benefit to us   
+38.17 Arrange it today, arrange for it, Lakshmana, and you go as its escort. I don't expect much 
+protest there, but it's hard to believe these southerners.
+ 
+Clip T T55-L1-LK: 0.08
+38.38 Yes, Brother, I will arrange. I'll leave today.
+ 
+Scene11 = T56 38.45
+Clip T T56-L1-SU2: BG Generic 0.59
+38.45 In the original Valmiki Ramayana, the story is intricately woven. But in this “Uttarakanda”, every 
+incident seems to have been depicted in multiple ways.
+38.57 Someone on Ravana's side wrote the story, and in protest, the opposite party scripted the story in 
+an alternative track. 
+39.04 Those who did not take any sides, scripted the story in  a quite different way....
+39.08 All in all, where is Rama and where are Kusha and Lava? What is their relationship? Such is the 
+story of Uttarakanda.
+39.17 The first meeting of the father and the children are scripted in multiple ways by various folks, and we 
+present a summation of all those here. 
+39.29 Let's come back to the arena of our “Ashvamedha yajna” the sacrament. Lakshmana has 
+accompanied the horse grazing in the south bank of Ganga.  . 
+39.34 The ritual horse continued to graze and came to the outskirts of Sage Valmiki’s ashram which had 
+fresh green grass.
+ 
+Scene12 = T57+T58+T59+T60+T61 39.44
+Clip T T57-L1-LV: BG: Ashrama 0.10
+39.44 Hey Kusha, Kusha, there's someone's big horse and it is eating the peas planted by our 
+mother.
+ 
+Clip T T58-L1-KU: 0.10
+39.54 Yes !! Mother may be angry when she sees this. Come, come let us chase the horse away.
+
+Clip T T59-L1-LV:  BG Horse in front of Ashrama  0.05
+ 
+Clip T T60-L1-LV: 0.20
+40.10 Hey Kusha, look, whatever we do, that horse does not move ? If you look at its decoration, it 
+must be a King's horse, and there's a sign on its forehead ?
+ 
+Clip T T61-L1-KU: 0.41
+40.29 Yes, Yes, I will read it. "This horse is the horse of the emperor of Ayodhya, Shri 
+Ramachandra. The land, where it sets foot shall belong to emperor Shri Ramachandra.
+40.48 Those who tie this horse must have the courage to take on the challenge of facing the 
+emperor and his army."
+40.58 Ha, I do not care what is written on its forehead. Let us tie this horse to see what happens. It 
+has no right to graze in our garden.
+ 
+ Scene13 = T62 41.10
+Clip T T62-L1-SU2: :BG - Generic  0.28
+41.10 Hearing the news of the ceremonial horse being tied up, Lakshamana tries to talk the kids to 
+release the horse, but to no avail.. A battle ensues. Laxshmana is gravely wounded by the arrows of  
+Lava and Kusha.
+41.27 The invincible son of the wind god  (Hanumantha) and Jambavanta are reluctant to fight 
+against the children. The injured Lakshmana returns to Ayodhya quickly.
+
+Scene14 = T63+T64+T65 41.38
+Clip T T63-L1-LK: BG - Durbar Hall  0.11
+41.38 Brother, Shri Ramachandra, it was a disaster, and I tarnished your name. Alas ...
+
+Clip T T64-L1-RA:  0.32
+41.49 What happened? Lakshmana, tell me, you are hurt with wounds all over you, who did this to 
+you?    I will eliminate him!!
+42.03 When someone harms you, it is like harming me, it's like harming the throne of this kingdom!!
+42.13 Brother, it is about the honor of the kingdom of Ayodhya, its dignity must be maintained, tell 
+me brother, who is this evil guy?
+ 
+Clip T T65-L1-LK: 0.51
+42.23 Brother, it is not one miscreant but two boys!! Those dazzling boys have all the charisma of princes.
+These kids did this sacrilege without being aware of what they are doing.
+42.46 But our horse is in their hands. You have to go to free it and end this war. Brother, despite the fact I 
+got hurt by them my heart goes out to them. 
+43.05 I feel that a new page is about to be opened in the chapter of Ayodhya!
+ 
+ Scene15 = T66 43.12
+Clip T T66-L1-SU2: 0.08
+43.12 Aware of the seriousness of the occasion, Rama immediately takes the chariot without delay 
+and rushes to where the horse has been tied
+ 
+ Scene16= T67+T68+T69 43.20
+Clip T T67-L1-RA: BG: Ashram with the horse tied  t… 0.12  
+43.20 What is this disaster? Everyone has fallen unconscious. Who are these evil boys? Is my 
+Ashvamedha ritual becoming a genocide?
+ 
+Clip T T68-L1-LV: 0.07
+43.33 We are those evil boys, this is our land, our home....
+ 
+Clip T T69-L1-KU: 0.06
+43.40 Be it the king of the town, or even if Shri Rama comes, we will not give this up!!
+ 
+ Scene17 = T70 43.45
+Clip T T70-L1-SU2: 0.40
+43.45 A fierce battle ensues. In which Rama falls unconscious.
+43.52 If we look at the Ramayana and Mahabharata epics in the framework of our present environment, 
+there is a great deal of disharmony and logical errors.
+44.03 In Ramayana, the story is not significant, not important, the content and subject is important, the 
+lesson we learn from it is important
+44.13 In any case, Ayodhya's king has fallen down unconscious. Anjaneya and Jambavanta are alarmed 
+and they try to convince the children. They all head towards the Ashram for support.
+
+Scene18 = T71+T72+T73+T74 44.23
+Clip T T71-L1-KU: 0.07
+44.23 Mother, mother, look, who has come?
+ 
+Clip T T72-L1-LV: 0.10
+44.30 Really, Hanuman and Jambavanta have come. We beat Lord Ram and toppled him!!
+ 
+Clip T T73-L1-SE2: 0.07
+44.40 Oh, what did you do, children? What a disaster you have created? 
+ 
+Clip T T74-L1-VA: 0.17
+44.47 Do not worry, do not worry, I will retrieve  everyone with the power from my penance. Children 
+show me where your squabble happened.
+ 
+Scene181 = T75 45.01
+Clip T T75-L1-SE2: 1.21
+45.01 (Soliloquy) Shall I go? Is the human word genderless? Should the ones who receive courtesy are men 
+only, can women receive this too?
+45.17 Is it humane to say, "Abandon the pregnant woman in a dense forest and ensure she is unable to 
+return?”
+45.23 Is it the evil, the tainted Seethe’s responsibility to revive such a man, who is the personification of 
+sacrifice, the merciful Shri Ramachandra, who has fallen in the battlefield and is lying unconscious?
+45.37 No, no. I have to go. Otherwise, I become infamous as the wife who never went to care for her 
+wounded husband? No, no, my list of ignominy is already long enough …. Let me go and see. 
+45.58 I'll go, I'll see... Is the last stage of this “Ashwamedha yaga” the beginning of the final journey of my 
+unfortunate and tragic life?
+46.05 Oh! Shri Ramachandra, the time has come  for me to make my final sacrifice, of handing over  my 
+children  to you . I am the puppet of fate, I am unfortunate and helpless ..... I shall go!  ...
+ 
+Scene19 = T76 46.22
+Clip T T76-L1-SU2: 0.33
+46.22 Sage Valmiki, children and Seethe all come to the place where the ceremonial   horse is tied.
+46.30 The sage wakes up all the unconscious with his hymns. In the distance, Seethe has her back 
+to everyone, her head bowed and staring at a blade of grass in her hand.
+46.42 Children don't understand what's happening and they stand near their mom holding her saree. 
+46.49 Sage Valmiki realizes the seriousness of the relationship and the context and provides pretext 
+for the following dialogue.
+Scene20 = T77 46.55
+Clip T T77-L1-VA:  1.02
+46.56 Children, you don't understand anything now,  Yes, not just you, but I also do not.
+47.05 I had not visualized that this situation would end up like this, even though I had anticipated the hustle 
+and bustle of emotions but not to this extent. 
+47.20 I will introduce you to the kind of situation we are in here and leave it in the hands of that fate.
+47.27 Kusha, Lava, I am your guru and even more your foster father. Shri Ramachandra, the Lord of 
+Ayodhya, whom I had sung and preached for so long, is standing before you here.
+47.43 He is not only your king but also your biological father, he is your father.
+47.50 I have finished my duty. I did not anticipate this ending. It is time for me to leave. 
+Scene201 = T78+T79+T80+T81+T82 47.57
+Clip T T78-L1-RA: 1.09
+47.57 (Soliloquy) On the one hand I am extremely happy, and on the other hand I am extremely sad 
+48.11 At once looking at my offspring, their brilliance, their charisma, I feel elated. On the other 
+hand, the disgust and contempt at myself for abandoning my wife is overpowering.
+48.28 I am repulsed at myself, I am caught in this emotional turmoil … 
+48.34 Right or wrong, I have followed a chosen path to appease the world and I must continue in its 
+course. As king, my primary duty is to the throne of Ayodhya, its future, and the comfort of others. 
+49.02 Oh! Queen …
+ 
+Clip T T79-L1-RA: 0.50
+49.07 (Soliloquy) Peace, peace, I have made a mistake, I apologize!   Seethe, I do not know what to say. 
+49.20 Our duty to the crown and the citizens who believed in us are paramount and should be placed above 
+our relationships and feelings. 
+49.32 My hands that held you with our wedding vows are now tied, and I have nothing left in these crushed 
+hands. 
+49.42 The prosperity and future of Ayodhya is in your hands. You are a royal woman, do what you see as 
+rightful. .
+
+ Clip T T80-L1-SE2: 1.43
+49.57 Queen? Royal woman? Hmm ..  Are you mocking me??... not in this life, unreal!! It is all 
+inimitable paranoia sins of the past.
+50.06 The comet has taken off from its orbital path never to return. 
+50.13 I am Ravana's daughter, who has emerged from mother earth. . The purpose of my birth has 
+been fulfilled. 
+50.20 Oh!! Emperor, in the ritual of  “Ashvamedha yaga”, finally you sacrifice the ritual horse. My fate 
+is the same as the horse.
+50.29 You have achieved the purpose of this yaga. The kingdom has expanded, the heir to the 
+kingdom has been located, and a stigma of this dynasty will be eliminated soon. The fruits of your 
+great sacrifice have been realized 
+50.50 Kusha, Lava, children, I have loved you more than my life in all these years. The goal of my 
+life is the happiness of both of you, your bright future, and above all your comfort!
+51.06 What did I say, "I love you more than my life". Yes, now it is time to conclude my life.
+51.19 This world took everything away from me, you children are all I have. I've lived all these years 
+for you both. I love you both more than my life. Now I must partake in separating me and my life. 
+Clip T T81-L1-RA: 0.51
+51.40 Oh! Seetha Devi, I have a request .. Please listen patiently. 
+51.54 In response to Washerman's remarks, I should have proved your innocence and purity to the citizens 
+of Ayodhya with another test of purification by fire. That was a mistake that I made. I slipped in my duty. 
+52.12 But it's not too late yet. Are you ready for another test by fire? And then all my subjects and our family 
+can happily live ever after. 
+
+Clip T T82-L1-SE2: 1.48
+52.31 Ha, Ha, Ha!! A test? test by fire? Audience, here is a question from me. If a helpless lady is captured by 
+demons and in their custody, the test for her purity and chastity is a test by fire.
+52.46 Is there such a test for fidelity of a strong man who walks around freely in the forest for 14 years?
+52.55 Are there any language experts here? Why is there no word for the fidelity of a married man in our 
+dictionary? Why not?
+53.05 In our masculine society, all constraints are for women only. 
+53.12 Hey, Rama, listen! I cannot help your restless mind, your mind focused on your own self-reflection.
+53.25 A Personification of sacrifice! Oh Shri Rama, listen. I will forget my own interests and give 
+these children of mine, who were born in my womb.
+53.34 Their future should not be ruined by my selfishness. This is sacrifice, it is a true sacrifice. Oh, 
+the epitome of sacrifice Shri Rama, this is indefatigable, absolute, pure sacrifice. Yes !
+53.49 Oh Children, The emperor of Ayodhya, Shri Rama is your birth father. Ayodhya’s throne 
+awaits you, the citizens of Ayodhya are waiting for you. Go, children. Go.
+54.06 My bond with you is eternal. Wherever you are on this earth, you will be in my embrace as I 
+enter the womb of my mother earth. Wish you both well.
+
+Scene 202 T83 54.18
+Clip NT T83-L1-MU1: 0.49
+
+Scene21 = T84 55.07
+Clip T T84-L1-SU2: 0.23
+55.07  An epic Poem is  not of much value if the reader does not gain a thorough, well-rounded knowledge 
+and wisdom from it . 
+55.16 We would like to conclude our story of Thyagasheela ShriRamachandra .  
+55.23 Wait-Wait, I mentioned about all-round knowledge? What is it? What do we mean? Let's see at the 
+conclusion. Now the conclusion.
+
+Scene 22 = T85 55.30 
+Clip T T85-L1-SR: 4.27
+55.30 Many of Shri Shatavadhani Ganesh's speeches; especially his Shrimad Mahabharatha - a 106 
+lecture series, have greatly influenced our narration of Thyagasheela ShriRamachandra  .
+55.46 In that, he subtly explains how many senior/famous writers and so called revolutionary 
+thinkers who, by with the virtue of their societal positions waste time by, 
+55.52 blabbering out the many  irrational, illogical aspects of the stories in the epics such as gender 
+discrimination, lack of relevance, and lack of substance in some stories and subplots. 
+56.11 These righteous and self assumed modern thinkers create literature just to purport their 
+skewed thoughts
+56.24 You just viewed our Kathanaka and might feel we are no different than them.
+56.33 No, no, our intentions are just the opposite. We are not qualified enough to comment on the 
+great sages like Valmiki and Vyasa. 
+56.53 Our views are that the stories, incidents and the people in them are just incidental, providing a 
+framework to explain the main theme. The theme/morality it extoles and advocates are critical . 
+57.08 From the title of the page to the end  it appears we have ridiculed lord Shri Rama. However 
+the reality is not so. 
+57.21 Wise sages like Valmiki/Vyasa have kept in mind hundreds of people with tens of facets of our 
+mad mind while shaping their poetry.
+57.33 We, one of those hundreds of people, have devised this plot using one of our ten facets.
+57.41 From the point of view of a rationality of literature,  it is reasonable, but not to be implemented 
+in life, and certainly not to be imitated.
+57.52 Our point of view is that even Shri Rama the God himself commits mistakes, discriminates 
+against women … Even he is not above the common human weaknesses/follies.
+58.07 Discrimination is very deep rooted in us, it is in our blood even it prepetuates to the very Gods 
+we worship. 
+58.18 Sage Valmiki’s through his epic Ramayana exemplifies the moral strength and courage of  
+women, their resilience under trying circumstances and their capacity for self sacrifice.
+58.36 Every product has its specific functions and they come with a user manual to guide its users to 
+use it.
+58.45  Similarly Ramayana and Mahabharatha are the user manual for our very lives.  
+58.53 Ramayana, Mahabharata, etc., are a platform to train us to find a multifaceted solution to the 
+problems that we face every day. 
+59.00 They provide a metaphorical framework using which we can design our day to day life to lead 
+a chaste life. 
+59.15 If we have succeeded in conveying these three special aspects of life, our story has been 
+worthwhile, and our goal has been achieved.
+59.23 We are grateful to Shri Shatavadhani R Ganesh, Facebook page “Vaagartha”’s Shri 
+Manjunatha Kollegala and Shri K.V. Ramaprasad.
+59.35 We are grateful to all the participants and audience.
+59.40 We complete this story by praying to Katilu Shri Durga Parameshwari Devi to bless all those 
+who enabled the making of this Kathanaka
+59.46 the people who enacted this Kathanaka and the audience who listened to this Kathanaka with 
+devotion.
+59.52 May you all be blessed to have the best in this world and achieve good status in the nether 
+world too.
+
+Scene 23 = T86-L1-MU2 59.57
+Clip T T86-L1-MU1: 2.56
+59.57 A sculptor carves an idol of Siva from a stone
+Vaidika a brahmin imprisoned the idol in a temple 
+60.33 Why did the benevolent Siva become a stone?
+For those whose God is in-residence within them do they need one external?
+60.45 There is but only one God and we called it by 106 names
+Then started fighting about the superiority of various Gods 
+60.58 A sculptor carves an idol of Siva from a stone
+Vaidika a brahmin imprisoned the idol in a temple 
+61.13 When a brahmin is born did he come with Janivara, a sacred thread?
+When a Shiva devotee is born does he come with a Shiva sacred thread?
+61.25 We all come to this earth totally nacked 
+But then fight over the superiority over each other
+61.37 A sculptor carves an idol of Siva from a stone
+Vaidika a brahmin imprisoned the idol in a temple 
+61.52 Oh! Human being Lord Shiva is ensconced in every mind
+Do not block anyone from entering the temple 
+62.07 Do not despair, every one is the children of the one and only God
+As long as your heart is filled with the nectar of devotion, God is within you. 
+62.25 A sculptor carves an idol of Siva from a stone
+Vaidika a brahmin imprisoned the idol in a temple 
+Courtesy: Shri L. S. Vishwanatha
+
+Scene Endx = T87  63.23
+Clip NT T87-Endx:
+
+
+

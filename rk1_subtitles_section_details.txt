@@ -1,0 +1,367 @@
+          section (Character) 		       duration  (Cum) No of subtitles    Start at  Incr_time?  
+________________________________________________________________________________________________________
+        Scene-0(             )			0: 0:27          (  0)  0         	0: 0: 0--
+      T1-P1-SU1(   Narrator: )			0: 2:22          (  0) 12         	0: 0:27	Yes
+special character in section T1-P1-SU1 : ‚, value is : -30
+special character in section T1-P1-SU1 : Ä, value is : -128
+special character in section T1-P1-SU1 : ô, value is : -103
+Special characters detected in section T1-P1-SU1 in 0 subtitle, total 3 , but was removed 
+special character in section T1-P1-SU1 : ‚, value is : -30
+special character in section T1-P1-SU1 : Ä, value is : -128
+special character in section T1-P1-SU1 : ú, value is : -100
+special character in section T1-P1-SU1 : ‚, value is : -30
+special character in section T1-P1-SU1 : Ä, value is : -128
+special character in section T1-P1-SU1 : ù, value is : -99
+Special characters detected in section T1-P1-SU1 in 4 subtitle, total 6 , but was removed 
+special character in section T1-P1-SU1 : ‚, value is : -30
+special character in section T1-P1-SU1 : Ä, value is : -128
+special character in section T1-P1-SU1 : ¶, value is : -90
+special character in section T1-P1-SU1 : ‚, value is : -30
+special character in section T1-P1-SU1 : Ä, value is : -128
+special character in section T1-P1-SU1 : ¶, value is : -90
+special character in section T1-P1-SU1 : ‚, value is : -30
+special character in section T1-P1-SU1 : Ä, value is : -128
+special character in section T1-P1-SU1 : ¶, value is : -90
+Special characters detected in section T1-P1-SU1 in 11 subtitle, total 9 , but was removed 
+       T2-P1-RA(       Rama: )			0: 2:56          ( 12) 13         	0: 2:49	Yes
+special character in section T2-P1-RA : ‚, value is : -30
+special character in section T2-P1-RA : Ä, value is : -128
+special character in section T2-P1-RA : ô, value is : -103
+Special characters detected in section T2-P1-RA in 0 subtitle, total 3 , but was removed 
+special character in section T2-P1-RA : ‚, value is : -30
+special character in section T2-P1-RA : Ä, value is : -128
+special character in section T2-P1-RA : ¶, value is : -90
+Special characters detected in section T2-P1-RA in 6 subtitle, total 3 , but was removed 
+      T3-P1-MU2(             )			0: 0:39          ( 25)  3         	0: 5:45	Yes
+special character in section T3-P1-MU2 : ‚, value is : -30
+special character in section T3-P1-MU2 : Ä, value is : -128
+special character in section T3-P1-MU2 : ¶, value is : -90
+special character in section T3-P1-MU2 : ‚, value is : -30
+special character in section T3-P1-MU2 : Ä, value is : -128
+special character in section T3-P1-MU2 : ¶, value is : -90
+special character in section T3-P1-MU2 : ‚, value is : -30
+special character in section T3-P1-MU2 : Ä, value is : -128
+special character in section T3-P1-MU2 : ¶, value is : -90
+Special characters detected in section T3-P1-MU2 in 2 subtitle, total 9 , but was removed 
+       T4-P1-LK(  Lakshmana: )			0: 0:26          ( 28)  2         	0: 6:24	Yes
+       T5-P1-RA(       Rama: )			0: 0:30          ( 30)  2         	0: 6:50	Yes
+       T6-P1-LK(  Lakshmana: )			0: 0:10          ( 32)  1         	0: 7:20	Yes
+       T7-P1-RA(       Rama: )			0: 1:47          ( 33)  7         	0: 7:30	Yes
+       T8-P1-LK(  Lakshmana: )			0: 0:13          ( 40)  1         	0: 9:17	Yes
+special character in section T8-P1-LK : ‚, value is : -30
+special character in section T8-P1-LK : Ä, value is : -128
+special character in section T8-P1-LK : ô, value is : -103
+Special characters detected in section T8-P1-LK in 0 subtitle, total 3 , but was removed 
+       T9-P1-RA(       Rama: )			0: 0:40          ( 41)  3         	0: 9:30	Yes
+special character in section T9-P1-RA : ‚, value is : -30
+special character in section T9-P1-RA : Ä, value is : -128
+special character in section T9-P1-RA : ô, value is : -103
+Special characters detected in section T9-P1-RA in 0 subtitle, total 3 , but was removed 
+special character in section T9-P1-RA : ‚, value is : -30
+special character in section T9-P1-RA : Ä, value is : -128
+special character in section T9-P1-RA : ô, value is : -103
+Special characters detected in section T9-P1-RA in 2 subtitle, total 3 , but was removed 
+     T10-P1-SU1(   Narrator: )			0: 2: 7          ( 44) 12         	0:10:10	Yes
+special character in section T10-P1-SU1 : ‚, value is : -30
+special character in section T10-P1-SU1 : Ä, value is : -128
+special character in section T10-P1-SU1 : ô, value is : -103
+Special characters detected in section T10-P1-SU1 in 2 subtitle, total 3 , but was removed 
+special character in section T10-P1-SU1 : ‚, value is : -30
+special character in section T10-P1-SU1 : Ä, value is : -128
+special character in section T10-P1-SU1 : ú, value is : -100
+special character in section T10-P1-SU1 : ‚, value is : -30
+special character in section T10-P1-SU1 : Ä, value is : -128
+special character in section T10-P1-SU1 : ô, value is : -103
+special character in section T10-P1-SU1 : ‚, value is : -30
+special character in section T10-P1-SU1 : Ä, value is : -128
+special character in section T10-P1-SU1 : ù, value is : -99
+Special characters detected in section T10-P1-SU1 in 4 subtitle, total 9 , but was removed 
+special character in section T10-P1-SU1 : ‚, value is : -30
+special character in section T10-P1-SU1 : Ä, value is : -128
+special character in section T10-P1-SU1 : ô, value is : -103
+Special characters detected in section T10-P1-SU1 in 5 subtitle, total 3 , but was removed 
+special character in section T10-P1-SU1 : ‚, value is : -30
+special character in section T10-P1-SU1 : Ä, value is : -128
+special character in section T10-P1-SU1 : ô, value is : -103
+Special characters detected in section T10-P1-SU1 in 10 subtitle, total 3 , but was removed 
+special character in section T10-P1-SU1 : ‚, value is : -30
+special character in section T10-P1-SU1 : Ä, value is : -128
+special character in section T10-P1-SU1 : ô, value is : -103
+Special characters detected in section T10-P1-SU1 in 11 subtitle, total 3 , but was removed 
+     T11-P1-SE1(     Seethe: )			0: 1:39          ( 56)  9         	0:12:17	Yes
+      T12-P1-LK(  Lakshmana: )			0: 0:35          ( 65)  3         	0:13:56	Yes
+special character in section T12-P1-LK : ‚, value is : -30
+special character in section T12-P1-LK : Ä, value is : -128
+special character in section T12-P1-LK : ô, value is : -103
+Special characters detected in section T12-P1-LK in 1 subtitle, total 3 , but was removed 
+     T13-P1-SE1(     Seethe: )			0: 0:32          ( 68)  3         	0:14:31	Yes
+special character in section T13-P1-SE1 : ‚, value is : -30
+special character in section T13-P1-SE1 : Ä, value is : -128
+special character in section T13-P1-SE1 : ô, value is : -103
+Special characters detected in section T13-P1-SE1 in 2 subtitle, total 3 , but was removed 
+      T14-P1-LK(  Lakshmana: )			0: 2: 0          ( 71)  7         	0:15: 3	Yes
+special character in section T14-P1-LK : ‚, value is : -30
+special character in section T14-P1-LK : Ä, value is : -128
+special character in section T14-P1-LK : ô, value is : -103
+Special characters detected in section T14-P1-LK in 0 subtitle, total 3 , but was removed 
+     T15-P1-SE1(     Seethe: )			0: 0:49          ( 78)  5         	0:17: 3	Yes
+      T16-P1-LK(  Lakshmana: )			0: 1:57          ( 83)  8         	0:17:52	Yes
+special character in section T16-P1-LK : ‚, value is : -30
+special character in section T16-P1-LK : Ä, value is : -128
+special character in section T16-P1-LK : ô, value is : -103
+special character in section T16-P1-LK : ‚, value is : -30
+special character in section T16-P1-LK : Ä, value is : -128
+special character in section T16-P1-LK : ô, value is : -103
+Special characters detected in section T16-P1-LK in 5 subtitle, total 6 , but was removed 
+     T17-P1-SU1(   Narrator: )			0: 1:10          ( 91)  5         	0:19:49	Yes
+special character in section T17-P1-SU1 : ‚, value is : -30
+special character in section T17-P1-SU1 : Ä, value is : -128
+special character in section T17-P1-SU1 : ô, value is : -103
+special character in section T17-P1-SU1 : ‚, value is : -30
+special character in section T17-P1-SU1 : Ä, value is : -128
+special character in section T17-P1-SU1 : ú, value is : -100
+special character in section T17-P1-SU1 : ‚, value is : -30
+special character in section T17-P1-SU1 : Ä, value is : -128
+special character in section T17-P1-SU1 : ô, value is : -103
+special character in section T17-P1-SU1 : ‚, value is : -30
+special character in section T17-P1-SU1 : Ä, value is : -128
+special character in section T17-P1-SU1 : ù, value is : -99
+Special characters detected in section T17-P1-SU1 in 2 subtitle, total 12 , but was removed 
+     T18-P1-MU1(             )			0: 0:35          ( 96)  5         	0:20:59	Yes
+special character in section T18-P1-MU1 : ‚, value is : -30
+special character in section T18-P1-MU1 : Ä, value is : -128
+special character in section T18-P1-MU1 : ¶, value is : -90
+Special characters detected in section T18-P1-MU1 in 1 subtitle, total 3 , but was removed 
+ Duration mismatch for section, using duration from input file > T19-P1-SE1, 113 vs 115
+     T19-P1-SE1(     Seethe: )			0: 1:55          (101)  9         	0:21:34	Yes
+special character in section T19-P1-SE1 : ‚, value is : -30
+special character in section T19-P1-SE1 : Ä, value is : -128
+special character in section T19-P1-SE1 : ô, value is : -103
+special character in section T19-P1-SE1 : ‚, value is : -30
+special character in section T19-P1-SE1 : Ä, value is : -128
+special character in section T19-P1-SE1 : ô, value is : -103
+Special characters detected in section T19-P1-SE1 in 6 subtitle, total 6 , but was removed 
+special character in section T19-P1-SE1 : ‚, value is : -30
+special character in section T19-P1-SE1 : Ä, value is : -128
+special character in section T19-P1-SE1 : ô, value is : -103
+special character in section T19-P1-SE1 : ‚, value is : -30
+special character in section T19-P1-SE1 : Ä, value is : -128
+special character in section T19-P1-SE1 : ô, value is : -103
+Special characters detected in section T19-P1-SE1 in 8 subtitle, total 6 , but was removed 
+     T20-P1-MU1(             )			0: 0:15          (110)  0         	0:23:29--
+     T21-P1-SE1(     Seethe: )			0: 0:16          (110)  1         	0:23:44	Yes
+     T23-P1-SE1(     Seethe: )			0: 0:30          (111)  4         	0:24: 0	Yes
+special character in section T23-P1-SE1 : ‚, value is : -30
+special character in section T23-P1-SE1 : Ä, value is : -128
+special character in section T23-P1-SE1 : ô, value is : -103
+Special characters detected in section T23-P1-SE1 in 0 subtitle, total 3 , but was removed 
+      T24-P1-VA(    Valmiki: )			0: 0:24          (115)  2         	0:24:30	Yes
+     T25-P1-SE1(     Seethe: )			0: 0:45          (117)  3         	0:24:54	Yes
+special character in section T25-P1-SE1 : ‚, value is : -30
+special character in section T25-P1-SE1 : Ä, value is : -128
+special character in section T25-P1-SE1 : ô, value is : -103
+Special characters detected in section T25-P1-SE1 in 2 subtitle, total 3 , but was removed 
+      T26-P1-VA(    Valmiki: )			0: 0:23          (120)  2         	0:25:39	Yes
+     T27-L1-SU2(   Narrator: )			0: 0:40          (122)  4         	0:26: 2	Yes
+special character in section T27-L1-SU2 : ‚, value is : -30
+special character in section T27-L1-SU2 : Ä, value is : -128
+special character in section T27-L1-SU2 : ô, value is : -103
+Special characters detected in section T27-L1-SU2 in 1 subtitle, total 3 , but was removed 
+     T28-L1-SE2(     Seethe: )			0: 2:45          (126) 13         	0:26:42	Yes
+special character in section T28-L1-SE2 : ‚, value is : -30
+special character in section T28-L1-SE2 : Ä, value is : -128
+special character in section T28-L1-SE2 : ú, value is : -100
+special character in section T28-L1-SE2 : ‚, value is : -30
+special character in section T28-L1-SE2 : Ä, value is : -128
+special character in section T28-L1-SE2 : ù, value is : -99
+Special characters detected in section T28-L1-SE2 in 3 subtitle, total 6 , but was removed 
+special character in section T28-L1-SE2 : ‚, value is : -30
+special character in section T28-L1-SE2 : Ä, value is : -128
+special character in section T28-L1-SE2 : ô, value is : -103
+Special characters detected in section T28-L1-SE2 in 8 subtitle, total 3 , but was removed 
+      T29-L1-LV(       Lava: )			0: 0: 7          (139)  1         	0:29:27	Yes
+      T30-L1-KU(      Kusha: )			0: 0:11          (140)  1         	0:29:34	Yes
+     T31-L1-SE2(     Seethe: )			0: 0: 5          (141)  1         	0:29:45	Yes
+      T32-L1-LV(       Lava: )			0: 0: 7          (142)  1         	0:29:50	Yes
+      T33-L1-KU(      Kusha: )			0: 0: 7          (143)  1         	0:29:57	Yes
+      T34-L1-LV(       Lava: )			0: 0: 3          (144)  1         	0:30: 4	Yes
+     T35-L1-SE2(     Seethe: )			0: 0:53          (145)  4         	0:30: 7	Yes
+special character in section T35-L1-SE2 : ‚, value is : -30
+special character in section T35-L1-SE2 : Ä, value is : -128
+special character in section T35-L1-SE2 : ô, value is : -103
+Special characters detected in section T35-L1-SE2 in 3 subtitle, total 3 , but was removed 
+      T36-L1-LV(       Lava: )			0: 0: 5          (149)  1         	0:31: 0	Yes
+     T37-L1-SE2(     Seethe: )			0: 0:24          (150)  2         	0:31: 5	Yes
+      T38-L1-KU(      Kusha: )			0: 0: 6          (152)  1         	0:31:29	Yes
+     T39-L1-SE2(     Seethe: )			0: 0:26          (153)  1         	0:31:35	Yes
+      T40-L1-KU(      Kusha: )			0: 0:12          (154)  1         	0:32: 1	Yes
+     T41-L1-SE2(     Seethe: )			0: 0:22          (155)  1         	0:32:13	Yes
+      T42-L1-LV(       Lava: )			0: 0: 8          (156)  1         	0:32:35	Yes
+ Duration mismatch for section, using duration from input file > T43-L1-SE2, 60 vs 62
+     T43-L1-SE2(     Seethe: )			0: 1: 2          (157)  4         	0:32:43	Yes
+      T44-L1-KU(      Kusha: )			0: 0:14          (161)  1         	0:33:45	Yes
+      T45-L1-VA(    Valmiki: )			0: 0:33          (162)  3         	0:33:59	Yes
+      T46-L1-KU(      Kusha: )			0: 0: 7          (165)  1         	0:34:32	Yes
+      T47-L1-LV(       Lava: )			0: 0: 3          (166)  1         	0:34:39	Yes
+     T48-L1-SE2(     Seethe: )			0: 0: 9          (167)  1         	0:34:42	Yes
+     T49-L1-SU2(   Narrator: )			0: 0:15          (168)  1         	0:34:51	Yes
+      T50-L1-RA(       Rama: )			0: 2:37          (169) 11         	0:35: 6	Yes
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ô, value is : -103
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ô, value is : -103
+Special characters detected in section T50-L1-RA in 3 subtitle, total 6 , but was removed 
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ô, value is : -103
+Special characters detected in section T50-L1-RA in 4 subtitle, total 3 , but was removed 
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ú, value is : -100
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ô, value is : -103
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ù, value is : -99
+Special characters detected in section T50-L1-RA in 6 subtitle, total 9 , but was removed 
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ú, value is : -100
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ù, value is : -99
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ô, value is : -103
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ú, value is : -100
+special character in section T50-L1-RA : ‚, value is : -30
+special character in section T50-L1-RA : Ä, value is : -128
+special character in section T50-L1-RA : ù, value is : -99
+Special characters detected in section T50-L1-RA in 8 subtitle, total 15 , but was removed 
+      T51-L1-LK(  Lakshmana: )			0: 0:12          (180)  1         	0:37:43	Yes
+      T52-L1-RA(       Rama: )			0: 0:18          (181)  2         	0:37:55	Yes
+special character in section T52-L1-RA : ‚, value is : -30
+special character in section T52-L1-RA : Ä, value is : -128
+special character in section T52-L1-RA : ú, value is : -100
+special character in section T52-L1-RA : ‚, value is : -30
+special character in section T52-L1-RA : Ä, value is : -128
+special character in section T52-L1-RA : ù, value is : -99
+Special characters detected in section T52-L1-RA in 1 subtitle, total 6 , but was removed 
+      T53-L1-LK(  Lakshmana: )			0: 0:28          (183)  3         	0:38:13	Yes
+      T54-L1-RA(       Rama: )			0: 0:32          (186)  2         	0:38:41	Yes
+      T55-L1-LK(  Lakshmana: )			0: 0: 8          (188)  1         	0:39:13	Yes
+     T56-L1-SU2(   Narrator: )			0: 0:59          (189)  7         	0:39:21	Yes
+special character in section T56-L1-SU2 : ‚, value is : -30
+special character in section T56-L1-SU2 : Ä, value is : -128
+special character in section T56-L1-SU2 : ú, value is : -100
+special character in section T56-L1-SU2 : ‚, value is : -30
+special character in section T56-L1-SU2 : Ä, value is : -128
+special character in section T56-L1-SU2 : ù, value is : -99
+Special characters detected in section T56-L1-SU2 in 0 subtitle, total 6 , but was removed 
+special character in section T56-L1-SU2 : ‚, value is : -30
+special character in section T56-L1-SU2 : Ä, value is : -128
+special character in section T56-L1-SU2 : ú, value is : -100
+special character in section T56-L1-SU2 : ‚, value is : -30
+special character in section T56-L1-SU2 : Ä, value is : -128
+special character in section T56-L1-SU2 : ù, value is : -99
+Special characters detected in section T56-L1-SU2 in 5 subtitle, total 6 , but was removed 
+special character in section T56-L1-SU2 : ‚, value is : -30
+special character in section T56-L1-SU2 : Ä, value is : -128
+special character in section T56-L1-SU2 : ô, value is : -103
+Special characters detected in section T56-L1-SU2 in 6 subtitle, total 3 , but was removed 
+      T57-L1-LV(       Lava: )			0: 0:10          (196)  1         	0:40:20	Yes
+      T58-L1-KU(      Kusha: )			0: 0:10          (197)  1         	0:40:30	Yes
+      T59-L1-LV(       Lava: )			0: 0: 5          (198)  0         	0:40:40--
+      T60-L1-LV(       Lava: )			0: 0:20          (198)  1         	0:40:45	Yes
+      T61-L1-KU(      Kusha: )			0: 0:41          (199)  3         	0:41: 5	Yes
+     T62-L1-SU2(   Narrator: )			0: 0:28          (202)  2         	0:41:46	Yes
+      T63-L1-LK(  Lakshmana: )			0: 0:11          (204)  1         	0:42:14	Yes
+      T64-L1-RA(       Rama: )			0: 0:32          (205)  3         	0:42:25	Yes
+      T65-L1-LK(  Lakshmana: )			0: 0:51          (208)  3         	0:42:57	Yes
+     T66-L1-SU2(   Narrator: )			0: 0: 8          (211)  1         	0:43:48	Yes
+      T67-L1-RA(       Rama: )			0: 0:12          (212)  1         	0:43:56	Yes
+      T68-L1-LV(       Lava: )			0: 0: 7          (213)  1         	0:44: 8	Yes
+      T69-L1-KU(      Kusha: )			0: 0: 6          (214)  1         	0:44:15	Yes
+     T70-L1-SU2(   Narrator: )			0: 0:40          (215)  4         	0:44:21	Yes
+      T71-L1-KU(      Kusha: )			0: 0: 7          (219)  1         	0:45: 1	Yes
+      T72-L1-LV(       Lava: )			0: 0:10          (220)  1         	0:45: 8	Yes
+     T73-L1-SE2(     Seethe: )			0: 0: 7          (221)  1         	0:45:18	Yes
+      T74-L1-VA(    Valmiki: )			0: 0:17          (222)  1         	0:45:25	Yes
+     T75-L1-SE2(     Seethe: )			0: 1:21          (223)  6         	0:45:42	Yes
+special character in section T75-L1-SE2 : ‚, value is : -30
+special character in section T75-L1-SE2 : Ä, value is : -128
+special character in section T75-L1-SE2 : ù, value is : -99
+Special characters detected in section T75-L1-SE2 in 1 subtitle, total 3 , but was removed 
+special character in section T75-L1-SE2 : ‚, value is : -30
+special character in section T75-L1-SE2 : Ä, value is : -128
+special character in section T75-L1-SE2 : ô, value is : -103
+Special characters detected in section T75-L1-SE2 in 2 subtitle, total 3 , but was removed 
+special character in section T75-L1-SE2 : ‚, value is : -30
+special character in section T75-L1-SE2 : Ä, value is : -128
+special character in section T75-L1-SE2 : ¶, value is : -90
+Special characters detected in section T75-L1-SE2 in 3 subtitle, total 3 , but was removed 
+special character in section T75-L1-SE2 : ‚, value is : -30
+special character in section T75-L1-SE2 : Ä, value is : -128
+special character in section T75-L1-SE2 : ú, value is : -100
+special character in section T75-L1-SE2 : ‚, value is : -30
+special character in section T75-L1-SE2 : Ä, value is : -128
+special character in section T75-L1-SE2 : ù, value is : -99
+Special characters detected in section T75-L1-SE2 in 4 subtitle, total 6 , but was removed 
+     T76-L1-SU2(   Narrator: )			0: 0:33          (229)  4         	0:47: 3	Yes
+      T77-L1-VA(    Valmiki: )			0: 1: 2          (233)  6         	0:47:36	Yes
+      T78-L1-RA(       Rama: )			0: 1: 9          (239)  5         	0:48:38	Yes
+special character in section T78-L1-RA : ‚, value is : -30
+special character in section T78-L1-RA : Ä, value is : -128
+special character in section T78-L1-RA : ¶, value is : -90
+Special characters detected in section T78-L1-RA in 2 subtitle, total 3 , but was removed 
+special character in section T78-L1-RA : ‚, value is : -30
+special character in section T78-L1-RA : Ä, value is : -128
+special character in section T78-L1-RA : ¶, value is : -90
+Special characters detected in section T78-L1-RA in 4 subtitle, total 3 , but was removed 
+      T79-L1-RA(       Rama: )			0: 0:50          (244)  4         	0:49:47	Yes
+     T80-L1-SE2(     Seethe: )			0: 1:43          (248)  8         	0:50:37	Yes
+special character in section T80-L1-SE2 : ‚, value is : -30
+special character in section T80-L1-SE2 : Ä, value is : -128
+special character in section T80-L1-SE2 : ú, value is : -100
+special character in section T80-L1-SE2 : ‚, value is : -30
+special character in section T80-L1-SE2 : Ä, value is : -128
+special character in section T80-L1-SE2 : ù, value is : -99
+Special characters detected in section T80-L1-SE2 in 3 subtitle, total 6 , but was removed 
+      T81-L1-RA(       Rama: )			0: 0:51          (256)  3         	0:52:20	Yes
+     T82-L1-SE2(     Seethe: )			0: 1:48          (259)  9         	0:53:11	Yes
+special character in section T82-L1-SE2 : ‚, value is : -30
+special character in section T82-L1-SE2 : Ä, value is : -128
+special character in section T82-L1-SE2 : ô, value is : -103
+Special characters detected in section T82-L1-SE2 in 7 subtitle, total 3 , but was removed 
+     T83-L1-MU1(             )			0: 0:49          (268)  0         	0:54:59--
+     T84-L1-SU2(   Narrator: )			0: 0:23          (268)  3         	0:55:48	Yes
+      T85-L1-SR(    Summary: )			0: 7: 7          (271) 33         	0:56:11	Yes
+special character in section T85-L1-SR : ‚, value is : -30
+special character in section T85-L1-SR : Ä, value is : -128
+special character in section T85-L1-SR : ¶, value is : -90
+Special characters detected in section T85-L1-SR in 12 subtitle, total 3 , but was removed 
+special character in section T85-L1-SR : ‚, value is : -30
+special character in section T85-L1-SR : Ä, value is : -128
+special character in section T85-L1-SR : ú, value is : -100
+Special characters detected in section T85-L1-SR in 14 subtitle, total 3 , but was removed 
+special character in section T85-L1-SR : ‚, value is : -30
+special character in section T85-L1-SR : Ä, value is : -128
+special character in section T85-L1-SR : ô, value is : -103
+Special characters detected in section T85-L1-SR in 27 subtitle, total 3 , but was removed 
+special character in section T85-L1-SR : ‚, value is : -30
+special character in section T85-L1-SR : Ä, value is : -128
+special character in section T85-L1-SR : ú, value is : -100
+special character in section T85-L1-SR : ‚, value is : -30
+special character in section T85-L1-SR : Ä, value is : -128
+special character in section T85-L1-SR : ù, value is : -99
+special character in section T85-L1-SR : ‚, value is : -30
+special character in section T85-L1-SR : Ä, value is : -128
+special character in section T85-L1-SR : ô, value is : -103
+Special characters detected in section T85-L1-SR in 29 subtitle, total 9 , but was removed 
+     T86-L1-MU1(             )			0: 2:56          (304) 10         	1: 3:18	Yes
+     Scene-Endx(             )			0: 0: 0          (314)  0         	1: 6:14--
