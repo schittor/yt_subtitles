@@ -6,7 +6,7 @@
 
 ## Contents
 1. yt_subtitles.exe : yt_subtitles.exe is a windows desktop executable (written in C source) that can generate YouTube subtitles for the final video from a human-friendly input per-clip grouped subtitles file that gives incremental timings for each subtitle within the clip. It can also do other things such as tags subtitles with character tags, reverse translate from YouTube subtitles file into a per-clip grouped subtitle.
-2. [yt_subtitles.py](https://github.com/schittor/yt_subtitles/blob/main/YT_subtitles.py) : A python program that supplements yt_subtitles.exe by supporting two-level structure, video sectios and video clips with it. Program generates flattened 1-level input file for yt_subtitles.exe.
+2. yt_subtitles.py : A python program that supplements yt_subtitles.exe by supporting two-level structure, video sectios and video clips with it. Program generates flattened 1-level input file for yt_subtitles.exe.
 3. yt_subtitles.docs : User manual for yt_subtitles.exe.
 
 Plan to add user manual for yt_subtitle.exe
