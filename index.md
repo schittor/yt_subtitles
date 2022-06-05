@@ -1,4 +1,3 @@
-```markdown
 
 # YouTube subtitles : Programs to generate subtitles for videos assembled from many small cips.
 
@@ -19,4 +18,3 @@ Plan to add user manual for yt_subtitle.exe
 - rk1_clip_start.txt : Additional optional file that can help with alignment, can be input or output from yt_subtitles.exe.
 - rk_subtitles.txt : Input file to yt_subtitles.py that will generate rk1_subtitles.txt
 
-```
